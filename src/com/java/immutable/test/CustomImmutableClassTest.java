@@ -23,6 +23,7 @@ public class CustomImmutableClassTest {
         address1.setAddressLine1("address Line1");
         address1.setAddressLine2("address Line2");
         address1.setCity("Mumbai");
+        
 
         Address address2 = new Address();
         address2.setAddressLine1("address Line1");
