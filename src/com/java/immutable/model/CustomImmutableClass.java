@@ -17,6 +17,7 @@ public final class CustomImmutableClass {
     private final Date dob;
     private final Address address;
     private final List<String> skills;
+    
 
     public CustomImmutableClass(Integer id, String name, BigDecimal salary, Date dob,
             Address address, List<String> skills) {
